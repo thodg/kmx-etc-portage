@@ -3,6 +3,7 @@ app-crypt/pinentry gnome-keyring
 app-doc/doxygen dot
 app-editors/emacs libxml2 sound source ssl xft
 app-editors/nano -nls
+app-editors/nvi -tcl
 app-editors/vim minimal
 app-eselect/eselect-php apache2
 app-office/openoffice-bin gnome
