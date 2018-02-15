@@ -1,4 +1,10 @@
+games-misc/opengfx ~x86
+games-misc/openmsx ~x86
+games-misc/opensfx ~x86
 games-roguelike/angband ~x86
 games-roguelike/moria ~x86
 games-roguelike/nethack ~x86
 games-simulation/openttd ~x86
+games-util/nml ~x86
+games-util/catcodec ~x86
+games-util/grfcodec ~x86
