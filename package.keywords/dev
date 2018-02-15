@@ -3,6 +3,7 @@ dev-lang/nasm ~x86
 dev-lang/icc ~x86
 dev-lang/tcc ~x86
 dev-libs/icu ~x86
+dev-libs/icu-layoutex ~x86
 dev-libs/intel-common ~x86
 dev-libs/libcss **
 dev-libs/libevent **
