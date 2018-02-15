@@ -1,0 +1,14 @@
+app-crypt/gcr gtk
+app-crypt/pinentry gnome-keyring
+app-doc/doxygen dot
+app-editors/emacs libxml2 sound source ssl xft
+app-editors/nano -nls
+app-editors/vim minimal
+app-eselect/eselect-php apache2
+app-office/openoffice-bin gnome
+app-text/docbook-sgml-utils jadetex
+app-text/ghostscript-gpl cups
+app-text/poppler cairo
+app-text/texlive-core xetex
+app-text/xmlto text
+app-text/texlive extra

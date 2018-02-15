@@ -1,0 +1,14 @@
+net-dialup/ppp ipv6
+net-dns/avahi dbus
+net-fs/samba aio avahi client cups -dmapi fam syslog
+net-ftp/proftpd -caps -ncurses -pcre
+net-libs/c-client chappa
+net-libs/gnutls -crywrap
+net-libs/libdom xml
+net-libs/webkit-gtk -geolocation -gles2 gnome-keyring opengl
+net-mail/dovecot imapc lzma
+net-misc/iputils -caps -filecaps rarpd tftpd traceroute
+net-misc/networkmanager connection-sharing
+net-misc/openssh -hpn
+net-p2p/transmission gtk
+net-wireless/wpa_supplicant ap dbus

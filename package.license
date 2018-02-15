@@ -1,0 +1,4 @@
+# required by media-video/vlc-2.2.8-r1::gentoo[fdk]
+# required by @selected
+# required by @world (argument)
+>=media-libs/fdk-aac-0.1.5 FraunhoferFDK

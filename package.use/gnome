@@ -1,0 +1,2 @@
+gnome-base/gnome-vfs -samba zeroconf
+gnome-base/gvfs afp archive bluray cdda fuse gnome-keyring gnome-online-accounts gtk google gphoto2 nfs -samba udisks zeroconf

@@ -1,0 +1,12 @@
+media-fonts/clearsans ~x86
+media-libs/avidemux-core ~x86
+media-libs/avidemux-plugins ~x86
+media-libs/faac ~x86
+media-libs/libnsbmp **
+media-libs/libnsgif **
+media-libs/libnspsl **
+media-libs/librosprite **
+media-libs/libsvgtiny **
+media-libs/x264 ~x86
+media-sound/milkytracker ~x86
+media-video/avidemux ~x86

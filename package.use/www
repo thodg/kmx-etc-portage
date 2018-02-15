@@ -1,0 +1,5 @@
+www-client/chromium cups
+www-client/elinks -X
+www-client/firefox dbus ffmpeg hardened system-harfbuzz system-icu system-jpeg system-libevent system-libvpx system-sqlite
+www-client/links fbcon -X
+www-client/w3m fbcon imlib

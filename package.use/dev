@@ -1,0 +1,25 @@
+dev-db/sqlite secure-delete
+dev-java/icedtea-bin -cups
+dev-lang/erlang doc
+#dev-lang/ghc ghcbootstrap
+dev-lang/php apache2 cgi exif gd mysql mysqli postgres sqlite zip
+dev-lang/python sqlite
+dev-lang/tk truetype
+dev-libs/DirectFB doc drmkms fbcon opengl truetype
+dev-libs/glib dbus
+dev-libs/libcdio cddb
+dev-libs/libgdata gnome-online-accounts
+dev-libs/libxml2 python
+dev-libs/libpcre pcre16
+dev-lisp/clisp hyperspec
+dev-lisp/cmucl source
+dev-lisp/sbcl doc source
+dev-python/markdown doc pygments
+dev-python/pygments doc
+dev-qt/qtgui egl eglfs xcb
+dev-ruby/json doc
+dev-ruby/racc doc
+dev-tex/xcolor doc
+dev-util/cmake doc
+dev-vcs/git -gpg perl python -webdav
+dev-vcs/subversion -dso -java

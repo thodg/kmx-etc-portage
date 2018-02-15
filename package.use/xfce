@@ -1,0 +1,7 @@
+xfce-base/thunar exif
+# required by net-print/cups-filters-1.16.4::gentoo[postscript]
+# required by net-print/cups-2.1.4::gentoo
+# required by www-client/chromium-64.0.3282.71::gentoo[cups]
+# required by @selected
+# required by @world (argument)
+>=app-text/ghostscript-gpl-9.21 cups

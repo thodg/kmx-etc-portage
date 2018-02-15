@@ -1,0 +1,5 @@
+# required by hardened-sources (argument)
+# /usr/portage/profiles/package.mask:
+# Anthony G. Basile <blueness@gentoo.org> (27 Aug 2017)
+# Upstream is no longer providing public patches
+=sys-kernel/hardened-sources-4.9.24

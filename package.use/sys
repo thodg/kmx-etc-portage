@@ -1,0 +1,10 @@
+sys-apps/groff -X
+sys-apps/util-linux -ncurses udev
+sys-auth/consolekit pam
+sys-auth/pambase pam_ssh
+sys-devel/binutils -nls multitarget
+sys-devel/clang -multitarget
+sys-devel/gcc -nls
+sys-devel/llvm clang doc
+sys-fs/lvm2 -thin
+sys-libs/zlib minizip
