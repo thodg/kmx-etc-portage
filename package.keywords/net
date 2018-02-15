@@ -3,3 +3,4 @@ net-libs/libdom **
 net-libs/nghttp2 ~x86
 net-libs/nodejs ~x86
 net-misc/openssh ~x86
+net-misc/ssvnc ~x86
