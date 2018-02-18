@@ -1,0 +1,12 @@
+CFLAGS="-O2 -march=i486 -pipe"
+CXXFLAGS="${CFLAGS}"
+# WARNING: Changing your CHOST is not something that should be done lightly.
+# Please consult http://www.gentoo.org/doc/en/change-chost.xml before changing.
+CHOST="i486-pc-linux-gnu"
+CPU_FLAGS_X86="mmx mmxext sse sse2"
+# These are the USE and USE_EXPAND flags that were used for
+# buidling in addition to what is provided by the profile.
+FEATURES="buildpkg compress-build-logs compress-index installsources"
+PORTDIR="/usr/portage"
+DISTDIR="${PORTDIR}/distfiles"
+PKGDIR="${PORTDIR}/packages"

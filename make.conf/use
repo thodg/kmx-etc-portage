@@ -1,0 +1,162 @@
+USE="
+ a52
+-acl
+ alsa
+
+-bindist
+ bluetooth
+ bmp
+ bittorrent
+
+ cdda
+ cddb
+ common-lisp
+ consolekit
+
+-dc1394
+ directfb
+-dmapi
+ dnssec
+ doc
+ dts
+-duktape
+ dv
+ dvd
+
+ emacs
+
+ faac
+ faad
+ fbcon
+ fbcon_frontend_linux
+ fbdev
+ flac
+ fontconfig
+ fontforge
+ ftp
+
+-gcrypt
+ gif
+ gpm
+ gtk2
+
+ harfbuzz
+
+ ices
+ icu
+ infinality
+-ipv6
+
+ java
+ jpeg
+
+ kms
+
+ latex
+-ldap
+ libnotify
+ logrotate
+
+ mp3
+
+-net
+ nls
+ noiplog
+ nptl
+
+-offensive
+ ogg
+ opengl
+ openssl
+ oss
+
+-pam
+-pic
+ png
+ policykit
+ pulseaudio
+
+-rosprite
+-rpc
+
+-samba
+-shm
+ ssh
+ ssl
+ svg
+ system-harfbuzz
+ system-icu
+
+ tcl
+ threads
+ tiff
+ tk
+ truetype
+
+ udev
+ udisks
+-upnp
+ upower
+
+-v4l
+ vaapi
+ vdpau
+
+ webp
+
+ X
+ x264
+-xattr
+-xcb
+-xinerama
+ xv
+
+ zeromq
+"
+
+VIDEO_CARDS="
+ amdgpu
+ fbcon
+ fbdev
+ i915
+ i965
+ intel
+ nouveau
+ nv
+ radeon
+ vesa
+"
+
+ALSA_CARDS="
+ emu10k1
+ ice1712
+"
+
+INPUT_DEVICES="
+ evdev
+ joystick
+ keyboard
+ mouse
+ synaptics
+"
+
+L10N="
+ fr
+"
+
+LINGUAS="
+ fr
+"
+
+PYTHON_TARGETS="
+ python2_7
+ python3_4
+ python3_5
+ python3_6
+"
+
+RUBY_TARGETS="
+ ruby22
+ ruby23
+ ruby24
+"
