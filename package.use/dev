@@ -14,8 +14,13 @@ dev-libs/libpcre pcre16
 dev-lisp/clisp hyperspec
 dev-lisp/cmucl source
 dev-lisp/sbcl doc source
+dev-python/Babel -doc
+dev-python/cffi -doc
+dev-python/jinja -doc
 dev-python/markdown doc pygments
-dev-python/pygments doc
+dev-python/pygments -doc
+dev-python/pyopenssl -doc
+dev-python/urllib3 -doc
 dev-qt/qtgui egl eglfs xcb
 dev-ruby/json doc
 dev-ruby/racc doc
