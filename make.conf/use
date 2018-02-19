@@ -82,6 +82,7 @@ USE="
 
 -samba
 -shm
+ socks5
  ssh
  ssl
  svg
