@@ -1,3 +1,4 @@
+net-irc/irssi **
 net-libs/http-parser ~x86
 net-libs/libdom **
 net-libs/nghttp2 ~x86
