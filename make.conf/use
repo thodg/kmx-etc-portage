@@ -8,6 +8,7 @@ USE="
  bmp
  bittorrent
 
+ cairo
  cdda
  cddb
  common-lisp
