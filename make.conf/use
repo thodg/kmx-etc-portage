@@ -111,6 +111,7 @@ USE="
 -xattr
 -xcb
 -xinerama
+ xscreensaver
  xv
 
  zeromq
