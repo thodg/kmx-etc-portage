@@ -1,5 +1,6 @@
 net-dialup/ppp ipv6
 net-dns/avahi dbus
+net-dns/dnsmasq dbus
 net-fs/samba aio avahi client cups -dmapi fam syslog
 net-ftp/proftpd -caps -ncurses -pcre
 net-libs/c-client chappa
