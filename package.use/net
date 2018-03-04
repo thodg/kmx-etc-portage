@@ -12,4 +12,4 @@ net-misc/iputils -caps -filecaps rarpd tftpd traceroute
 net-misc/networkmanager connection-sharing
 net-misc/openssh -hpn
 net-p2p/transmission gtk
-net-wireless/wpa_supplicant ap dbus
+net-wireless/wpa_supplicant ap dbus wps
