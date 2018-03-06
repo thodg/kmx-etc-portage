@@ -1,3 +1,4 @@
+media-gfx/fontforge gtk
 media-gfx/gimp aalib exif lcms mng pdf postscript smp udev wmf xpm
 media-gfx/imagemagick autotrace corefonts djvu fftw fpx graphviz hdri jbig lcms lqr openexr q64 raw truetype webp wmf xml
 media-gfx/pstoedit plotutils
