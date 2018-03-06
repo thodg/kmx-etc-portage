@@ -11,7 +11,7 @@ dev-libs/libcdio cddb
 dev-libs/libgdata gnome-online-accounts
 dev-libs/libxml2 python
 dev-libs/libpcre pcre16
-dev-lisp/clisp hyperspec
+dev-lisp/clisp hyperspec -threads -X
 dev-lisp/cmucl source
 dev-lisp/sbcl doc source
 dev-python/Babel -doc

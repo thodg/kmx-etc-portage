@@ -16,6 +16,7 @@ dev-libs/libwapcaplet **
 dev-libs/libxml2 ~x86
 dev-libs/nsgenbind **
 dev-libs/openssl ~x86
+dev-lisp/clisp ~x86
 dev-lisp/clozurecl ~x86
 dev-lisp/sbcl ~x86
 dev-python/pynacl ~x86
