@@ -1,5 +1,5 @@
 net-dialup/ppp ipv6
-net-dns/avahi dbus
+net-dns/avahi dbus mdnsresponder-compat
 net-dns/dnsmasq dbus
 net-fs/samba aio avahi client cups -dmapi fam syslog
 net-ftp/proftpd -caps -ncurses -pcre
