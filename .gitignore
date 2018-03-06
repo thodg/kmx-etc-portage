@@ -2,4 +2,5 @@
 /make.conf/local
 /repo.postsync.d/
 /repos.conf/
+/repos.d/
 /savedconfig/
