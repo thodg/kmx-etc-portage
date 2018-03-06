@@ -20,6 +20,7 @@ media-libs/x264 10bit
 media-libs/x265 12bit
 media-plugins/alsa-plugins libsamplerate
 media-sound/audacity ffmpeg flac id3tag ladspa libsamplerate mad midi mp3 sbsms soundtouch twolame vamp vorbis
+media-sound/fluidsynth ladspa portaudio sndfile
 media-sound/lame sndfile
 media-sound/mpd audiofile cdio faad -ffmpeg flac fluidsynth gme lame libsamplerate modplug mpg123 musepack pipe recorder sid sndfile soundcloud sqlite twolame vorbis wavpack zip
 media-sound/mpg123 int-quality
