@@ -24,6 +24,7 @@ media-sound/mpd audiofile cdio faad -ffmpeg flac fluidsynth gme lame libsamplera
 media-sound/mpg123 int-quality
 media-sound/ncmpc artist-screen colors key-screen lirc lyrics-screen mouse search-screen song-screen"
 media-sound/pulseaudio dbus doc equalizer libsamplerate lirc realtime
+media-sound/xmms2 aac airplay ao asf curl ffmpeg fluidsynth gvfs -jack -mac -mlib-update -mms modplug mp4 musepack -ofa -opus -perl -phonehome -python -ruby -samba sid sndfile speex -valgrind -vocoder wavpack -xml zeroconf
 media-video/avidemux qt4 sdl
 media-video/ffmpeg aac aacplus amr amrenc bluray bs2b cdio celt doc fdk gsm iec61883 ieee1394 ladspa libass libcaca librtmp libsoxr libv4l lzma modplug mp3 schroedinger sdl ssh theora truetype twolame v4l vorbis x264 x265 xvid
 media-video/mplayer a52 bluray dga dts dv gsm jpeg mng png pnm rar sdl tga theora twolame x264
