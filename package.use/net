@@ -8,6 +8,7 @@ net-libs/gnutls -crywrap
 net-libs/libdom xml
 net-libs/webkit-gtk -geolocation -gles2 gnome-keyring opengl
 net-mail/dovecot imapc lzma
+net-misc/cgminer ants1 ants2 ants3 avalon avalon2 avalon4 avalon7 avalon-miner bab bflsc bitforce bitfury bitmine_A1 blockerupter cointerra drillbit hashfast hashratio icarus klondike knc minion modminer sp10 sp30
 net-misc/iputils -caps -filecaps rarpd tftpd traceroute
 net-misc/networkmanager connection-sharing
 net-misc/openssh -hpn
