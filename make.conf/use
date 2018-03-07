@@ -25,6 +25,7 @@ USE="
  dvd
 
  emacs
+ epoll
  exif
 
  faac
