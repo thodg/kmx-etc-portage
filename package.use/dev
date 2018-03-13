@@ -26,5 +26,6 @@ dev-ruby/json doc
 dev-ruby/racc doc
 dev-tex/xcolor doc
 dev-util/cmake doc
+dev-vcs/cvs server
 dev-vcs/git -gpg perl python -webdav
 dev-vcs/subversion -dso -java
