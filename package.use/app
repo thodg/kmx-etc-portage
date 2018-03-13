@@ -1,3 +1,4 @@
+app-admin/sudo -nls -openssl -sendmail
 app-crypt/gcr gtk
 app-crypt/pinentry gnome-keyring
 app-doc/doxygen dot
