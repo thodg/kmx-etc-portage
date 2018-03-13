@@ -13,5 +13,6 @@ net-misc/cgminer ants1 ants2 ants3 avalon avalon2 avalon4 avalon7 avalon-miner b
 net-misc/iputils -caps -filecaps rarpd tftpd traceroute
 net-misc/networkmanager connection-sharing
 net-misc/openssh -hpn
+net-p2p/bitcoin-qt qt5
 net-p2p/transmission gtk
 net-wireless/wpa_supplicant ap dbus wps

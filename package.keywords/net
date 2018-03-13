@@ -6,4 +6,6 @@ net-libs/nodejs ~x86
 net-misc/cgminer ~x86
 net-misc/openssh ~x86
 net-misc/ssvnc ~x86
+net-p2p/bitcoin **
+net-p2p/bitcoin-qt **
 net-p2p/cpuminer-opt **
