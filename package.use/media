@@ -14,6 +14,7 @@ media-libs/libcaca -doc imlib truetype
 media-libs/libpng apng
 media-libs/libvpx postproc svc
 media-libs/lv2 -doc
+media-libs/libmediainfo curl
 media-libs/mesa egl gallium gbm llvm xa
 media-libs/portaudio -debug
 media-libs/x264 10bit
@@ -29,5 +30,6 @@ media-sound/pulseaudio dbus doc equalizer gtk libsamplerate lirc realtime
 media-sound/xmms2 aac airplay ao asf curl ffmpeg fluidsynth gvfs -jack -mac -mlib-update -mms modplug mp4 musepack -ofa -opus -perl -phonehome -python -ruby -samba sid sndfile speex -valgrind -vocoder wavpack xml zeroconf
 media-video/avidemux qt5 sdl
 media-video/ffmpeg aac aacplus amr amrenc bluray bs2b cdio celt doc fdk gsm iec61883 ieee1394 ladspa libass libcaca librtmp libsoxr libv4l lzma modplug mp3 schroedinger sdl ssh theora truetype twolame v4l vorbis x264 x265 xvid
+media-video/mediainfo curl
 media-video/mplayer a52 bluray dga dts dv gsm jpeg mng png pnm rar sdl tga theora twolame x264
 media-video/vlc a52 cdda cddb dc1394 dbus directfb dts dvd faad fdk flac fluidsynth fontconfig ieee1394 matroska modplug mp3 mpeg musepack opengl shout sid twolame truetype udev v4l vorbis x264 x265 xcb xml xv
