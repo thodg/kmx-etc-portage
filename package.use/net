@@ -1,4 +1,4 @@
-net-analyser/netcat -crypt
+net-analyzer/netcat -crypt
 net-dialup/ppp ipv6
 net-dns/avahi dbus mdnsresponder-compat
 net-dns/dnsmasq dbus
