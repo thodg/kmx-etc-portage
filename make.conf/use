@@ -15,6 +15,7 @@ USE="
  consolekit
 
 -dc1394
+ dia
  directfb
 -dmapi
  dnssec
@@ -56,6 +57,7 @@ USE="
  kms
 
  latex
+ lcms
 -ldap
  libnotify
  logrotate
@@ -78,6 +80,7 @@ USE="
 -pic
  png
  policykit
+ postscript
  pulseaudio
 
 -rosprite
